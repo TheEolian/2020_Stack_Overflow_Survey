@@ -1,5 +1,5 @@
 # 2020_Stack_Overflow_Survey
-2020 Stack Overflow Survey Data
+Python pandas analysis of 2020 Stack Overflow Survey Data
 
 
 Full dataset downloadable at:
